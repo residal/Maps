@@ -90,6 +90,30 @@
 	"itemremove": [
 		"stone sword", "bow", "arrow", "golden apple",
     		"leather helmet", "chainmail chestplate", "leather leggings", "iron boots"
+		{
+            "type": "leather helmet",
+	    "death": true,
+            "drop": true,
+ 	    "spawn": false
+        },
+        {
+            "type": "chainmail chestplate",
+	    "death": true,
+            "drop": true,
+	    "spawn": false
+        },
+	{
+            "type": "leather leggings",
+	    "death": true,
+            "drop": true,
+	    "spawn": false
+        },
+        {
+            "type": "iron boots",
+	    "death": true,
+            "drop": true,
+	    "spawn": false
+        }
 	],
 	"killstreaks": [
 		{
